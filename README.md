@@ -40,9 +40,10 @@ Works well on Ubuntu 18.04
 
 # Run code python:
 
+    $ pip install opencv-python
+
+
     Reference : https://github.com/Flashs/virtualvideo.git
-
-
 
     $ sudo modprobe v4l2loopback
     $ ls /dev/video*
