@@ -54,3 +54,7 @@ Works well on Ubuntu 18.04
 
 <img src="new_virtual_camera.jpeg?raw=true" width="2500" height = "300"/>
 
+# Result
+
+<img src="zoom.jpeg?raw=true" width="2500" height = "300"/>
+
